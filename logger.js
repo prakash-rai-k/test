@@ -7,3 +7,4 @@ function log(message){
 
 module.exports.log = log;
 
+//tests
